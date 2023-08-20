@@ -1,0 +1,9 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    color: darkblue;
+    background-color: bisque;
+    margin: 5px;
+    border-style: dotted;
+    border-width: 5px;
+}

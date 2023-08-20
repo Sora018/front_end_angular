@@ -1,0 +1,9 @@
+h1 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: purple;
+    background-color: lightgoldenrodyellow;
+    margin: 5px;
+    border-style: double;
+    border-width: 15px;
+}
